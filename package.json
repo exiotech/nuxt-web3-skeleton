@@ -13,8 +13,8 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "@exio.tech/nuxt-web3": "^1.0.0",
     "@nuxtjs/axios": "^5.0.0",
-    "@nuxtjs/web3": "file:../nuxt-vue-web3",
     "cross-env": "^5.2.0",
     "express": "^4.16.3",
     "nuxt": "^2.0.0",
